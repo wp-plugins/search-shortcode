@@ -3,7 +3,7 @@ Contributors: Mark Kaplun
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N9XMJZP8F66UG
 Tags: Search
 Requires at least: 3.2
-Tested up to: 3.5
+Tested up to: 4.2
 Stable tag: 1.0
 
 Provides a [search] shortcode to insert search form in content.
